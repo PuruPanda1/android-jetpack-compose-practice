@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DailyDo</string>
+    <string name="user_profile_picture_desc">User Profile Picture</string>
+    <string name="default_username">Purab Modi</string>
+    <string name="default_user_status">online 3mins ago</string>
+    <string name="add_floating_button_desc">Add floating button</string>
+    <string name="message_icon">Message %1$s\n</string>
+    <string name="unknown_caller">Unknown Caller</string>
+    <string name="call_icon">Call %1$s</string>
+    <string name="profile_picture_desc">Profile picture of %1$s</string>
+</resources>
