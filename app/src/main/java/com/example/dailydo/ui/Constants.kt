@@ -26,4 +26,16 @@ object Constants {
 
     val IMAGE_SIZE_SMALL = 48.dp
 
+
+    val contactList = listOf(
+        mapOf("name" to "Purab", "phone" to "9823456712"),
+        mapOf("name" to "Raj", "phone" to "9098876543"),
+        mapOf("name" to "Shyam", "phone" to "7765123490"),
+        mapOf("name" to "Naveen", "phone" to "8879012365"),
+        mapOf("name" to "Dev", "phone" to "9123456780"),
+        mapOf("name" to "Avan", "phone" to "7986541230"),
+        mapOf("name" to "Tanu", "phone" to "9367012488"),
+        mapOf("name" to "Manisha", "phone" to "8245631098"),
+        mapOf("name" to "Shriya", "phone" to "8890124576")
+    )
 }

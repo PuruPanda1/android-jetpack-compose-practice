@@ -23,6 +23,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.constraintlayout.compose.ConstraintLayout
 import com.example.dailydo.ui.personal_tasks.level2.contactList.ContactList
+import com.example.dailydo.ui.personal_tasks.level2.material3App.MaterialApp
 import com.example.dailydo.ui.theme.DailyDoTheme
 
 class MainActivity : ComponentActivity() {
@@ -35,7 +36,8 @@ class MainActivity : ComponentActivity() {
 //                UserProfileCard()
 //                Mat3App()
 //                LikeCounter()
-                ContactList()
+//                ContactList()
+                MaterialApp()
             }
         }
     }
